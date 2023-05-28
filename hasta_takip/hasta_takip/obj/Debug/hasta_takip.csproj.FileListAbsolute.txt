@@ -1,0 +1,11 @@
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\bin\Debug\hasta_takip.exe.config
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\bin\Debug\hasta_takip.exe
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\bin\Debug\hasta_takip.pdb
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\obj\Debug\hasta_takip.csprojAssemblyReference.cache
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\obj\Debug\hasta_takip.Form1.resources
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\obj\Debug\hasta_takip.Form2.resources
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\obj\Debug\hasta_takip.Properties.Resources.resources
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\obj\Debug\hasta_takip.csproj.GenerateResource.cache
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\obj\Debug\hasta_takip.csproj.CoreCompileInputs.cache
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\obj\Debug\hasta_takip.exe
+C:\Users\berkantsahn\source\repos\hasta_takip\hasta_takip\obj\Debug\hasta_takip.pdb
